@@ -27,8 +27,8 @@ The Hyderabad property market data is:
 Housing.com → Apify → Python → AWS S3 → Databricks (PySpark) → Snowflake → Power BI
 ```
 
-###💽 Medallion Architecture
-Bronze (Staging): Raw JSON in AWS S3
-Silver (Processing): Cleaned, structured data in Databricks
-Gold (Analytics): Star schema in Snowflake
+### 💽 Medallion Architecture
+- Bronze (Staging): Raw JSON in AWS S3
+- Silver (Processing): Cleaned, structured data in Databricks
+- Gold (Analytics): Star schema in Snowflake
 
