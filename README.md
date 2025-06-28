@@ -3,6 +3,9 @@
 
 A complete data engineering project that transforms raw real estate data from [Housing.com](https://housing.com) into actionable insights for Hyderabad’s property market. The solution includes web scraping, cloud-based processing, Snowflake warehousing, and Power BI dashboards — delivering real-time business intelligence to buyers, investors, and analysts.
 
+> ⚠️ **Note:** This entire repository is designed to be executed within an **Apache Airflow environment**. Please ensure Airflow is properly installed and configured before running the pipeline.
+
+
 ---
 
 ## 📌 Problem Statement
