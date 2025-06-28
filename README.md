@@ -3,7 +3,15 @@
 
 A complete data engineering project that transforms raw real estate data from [Housing.com](https://housing.com) into actionable insights for Hyderabad’s property market. The solution includes web scraping, cloud-based processing, Snowflake warehousing, and Power BI dashboards — delivering real-time business intelligence to buyers, investors, and analysts.
 
-> ⚠️ **Note:** This entire repository is designed to be executed within an **Apache Airflow environment**. Please ensure Airflow is properly installed and configured before running the pipeline.
+> ⚠️ **Note:** This entire repository is designed to be executed within an **Apache Airflow environment**.
+
+- 🔹 The **input data is not uploaded** here due to large file size. 
+- 🔹 You must **create your own connections to Snowflake and Databricks** in the Airflow UI or via environment variables.
+- 🔹 This project assumes that Airflow is set up using the **Astro CLI** or any standard Airflow installation.
+
+📚 Learn and install Airflow with Astro CLI:
+👉 [Astro CLI Documentation](https://docs.astronomer.io/astro/cli/install-cli)
+
 
 
 ---
