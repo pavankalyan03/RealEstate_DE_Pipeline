@@ -8,8 +8,8 @@ A complete data engineering project that transforms raw real estate data from [H
 >  - 🔹 You must **create your own connections to Snowflake and Databricks** in the Airflow UI or via environment variables.
 >  - 🔹 This project assumes that Airflow is set up using the **Astro CLI** or any standard Airflow installation.
 
->  📚 Learn and install Airflow with Astro CLI:
->  👉 [Astro CLI Documentation](https://docs.astronomer.io/astro/cli/install-cli)
+##### 📚 Learn and install Airflow with Astro CLI:
+👉 [Astro CLI Documentation](https://docs.astronomer.io/astro/cli/install-cli)
 
 
 
